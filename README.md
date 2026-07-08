@@ -22,8 +22,8 @@ Maintain validation perplexity within a 2% margin of the classical baseline.
 ════════════════════════════════════════════════════════════════════
 
   Goal 1 — 20% compute reduction on Q·Kᵀ
-    Crossover point  : d_model = 4,096
-    Reduction at 4,096  : 36.0%
+    Crossover point  : d_model = 1,024
+    Reduction at 1,024  : 36.6%
 
   Goal 2 — Validation PPL within 2% of classical
     Classical PPL   : 66.849
