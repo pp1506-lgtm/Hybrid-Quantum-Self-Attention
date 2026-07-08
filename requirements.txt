@@ -1,0 +1,15 @@
+# Core ML / Hugging Face
+
+datasets
+huggingface_hub
+transformers
+
+# Quantum computing
+
+qiskit
+qiskit-aer
+
+# Numerical computing
+
+numpy
+matplotlib
